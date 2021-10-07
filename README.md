@@ -1,4 +1,7 @@
 # Leetcode probelem Solving
 
-### probleme 1: 
+## Intergers
+### problem 1: 
 FizzBuzz (LeetCode 412)
+### problem 2:
+Two Sum

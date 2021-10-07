@@ -1,4 +1,4 @@
-package Q1FizzOrBazz;
+package Intergers.Q1FizzOrBazz;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,11 +11,11 @@ public class Main {
         int n =15;
         List<String> list=new ArrayList<>();
          for(int i=1;i<=n;i++){
-             if(chechultiple(5,i) && chechultiple(3,i)){
+             if(i%5==0 && i%3==0){
                  list.add("fizzBazz");
-             }else if (chechultiple(5,i)){
+             }else if (i%5==0){
                  list.add("bazz");
-             }else if(chechultiple(3,i)){
+             }else if(i%3==0){
                  list.add("fizz");
              }else {
                  list.add(""+i);
