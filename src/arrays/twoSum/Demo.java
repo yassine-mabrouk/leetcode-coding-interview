@@ -1,4 +1,4 @@
-package twoSum;
+package arrays.twoSum;
 
 public class Demo {
     public static void main(String[] args) {

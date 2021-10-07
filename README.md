@@ -3,5 +3,7 @@
 ## Intergers
 ### problem 1: 
 FizzBuzz (LeetCode 412)
-### problem 2:
+palindrome-number
+## Arrays
+### problem 1:
 Two Sum

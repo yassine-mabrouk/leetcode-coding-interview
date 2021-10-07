@@ -1,4 +1,4 @@
-package twoSum;
+package arrays.twoSum;
 
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
